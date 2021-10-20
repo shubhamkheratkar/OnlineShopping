@@ -10,26 +10,20 @@
 <body>
 <div style="color: white; text-align: center; font-size: 30px;">About <i class="fa fa-address-book"></i></div>
 <div style="background-color: white; padding:35px; font-size: 30px;">
-BTech Days
+Collage Days...
 <br>
 Hey everyone!!
 <br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
+My Name is Shubham Dipak Kheratkar.
 <br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
+I have Created this project for my self improvement.
+and for Developing my programming skills.
 <br>
-Contact us at :- btechdays.care@gmail.com
+Contact us at :- shubhamkheratkar712@gmail.com
 <br>
 or
 <br>
-contact us at instagram :- btechdays
+contact us at instagram :- shubhamkheratkar
 </div>
 
 </body>
